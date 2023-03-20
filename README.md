@@ -1,11 +1,10 @@
-# chapter-02-Igniting-our-app
+Class Summary Chapter - 05 Let's Get Hooked 
+Chapter-05 was the continuation of previous chapter where we started to develop a food delivery app. In this chapter, we re-organised the repo structure, understood the importance of clean coding principles, different ways of exporting and importing modules(components). Then, the hero of this chapter Hooks got everyone hooked to their screen. It was indeed a 3 hours knowledge heavy session where foundation of hooks was laid. We used hooks to filter the restaurants based on search input. Find my version of detailed explanation of these concepts in theory-assignment.md.
 
-Chapter-02 was about creating production-ready react app from scratch without using create-react-app. Production-ready app on the second day of a course ? sounds interesting right !!? The concept of bundlers (Parcel) was explained in detail. We all assume React is the one superpower that makes the application faster, though it is partially right, the major credit goes to the other packages/helper utilities (Bundler) for speeding up the application, optimizing the code, improving the performance and lots more. Find the other interesting powerful featured of bundler in class notes.
+After today's session, got a better understanding of Thinking in React. In last chapter, I mentioned about thinking in React and developing the app. I continued that in this chapter as well. Check coding-assignment.md to find its details.
 
-One line about this chapter : As Akshay says Parcel is a BEAST.
+One line about this chapter : Hook is just normal function which manages the local variable(state), which can only be modified using it's function useState() to create a state and assign a initial value and setState() to update the state.
 
-Check out Chapter-02 Live for the live demo of this chapter's coding assignment
+Check out Chapter-05 Live for the live demo of this chapter's coding assignment (InstaFood Version 1.0). Also check out the following chapters to see how InstaFood has progressed. Happy Reacting !!!
 
-If you are interested in learning other chapters of this series, please browse through the my repositories
-
-If you have any queries/suggestions about my version of this course, please feel free to raise PR. Happy coding !!!
+If you are interested in other chapters of this series, please browse through the my repositories
